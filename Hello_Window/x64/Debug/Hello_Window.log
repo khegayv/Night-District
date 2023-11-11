@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Admin\Downloads\Model\Hello_Window\shader_m.h(61,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\Model\Hello_Window\mesh.h(75,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(146,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(147,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(148,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(152,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(153,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(166,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(444,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(445,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(449,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(450,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(452,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(453,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Downloads\Model\Hello_Window\main.cpp(460,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Hello_Window.vcxproj -> C:\Users\Admin\Downloads\Model\x64\Debug\Model Loading.exe
